@@ -8,5 +8,5 @@ if
   end
 
 end 
-puts collection
+collection
 end 
